@@ -78,7 +78,6 @@ Colaboré en un proyecto grupal para crear una plataforma que conecta personas a
 ## 📫 **¿Cómo contactarme?**  
 📧 **Email:** chiaravalentinabosio@gmail.com  
 📱 **Teléfono:** +54 351 328-3877  
-🔗 [LinkedIn](https://www.linkedin.com/in/chiara-bosio-078b9717b)  
-🔗 [GitHub](https://github.com/chi-bosio)  
+🔗 [LinkedIn](https://www.linkedin.com/in/chiara-bosio-078b9717b)
 
 ![GIF de desarrollo](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
